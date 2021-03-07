@@ -4,3 +4,6 @@ hello git new
 
 
 hello git 3
+
+hello git add new feature
+
